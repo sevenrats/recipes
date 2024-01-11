@@ -1,11 +1,13 @@
-Creamy Lemon Tomato Spaghetti
+# Creamy Lemon Tomato Spaghetti
 
-    8 oz spaghetti
-    1 lemon
-    4 oz grape tomatoes
-    2 clove garlic
-    2 tbsp butter
-    2 tbsp cream cheese or labneh
+- 8 oz spaghetti
+- 1 lemon
+- 4 oz grape tomatoes
+- 2 clove garlic
+- 2 tbsp butter
+- 2 tbsp cream cheese or labneh
+
+## Instructions
 
 Cook pasta and reserve 1/4 cup of pasta water
 
@@ -21,4 +23,4 @@ Add cream cheese, lemon zest, and pasta water, and 1 tbsp lemon juice
 
 Add cooked pasta and toss to combine.  Adjust consistency with pasta water if needed
 
-Serve with Parmesan-Crusted Chicken.
+Serve with [Parmesan-Crusted Chicken](./Parmesan-Crusted%20Chicken.md)

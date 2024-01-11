@@ -1,14 +1,16 @@
 
-Parmesan-Crusted Chicken
+# Parmesan-Crusted Chicken
 
-    1/2 cup panko crumbs
-    1 tbsp fry seasoning
-    1/2 cup parmesan
-    2 chicken breasts
-    2 tsp dijon mustard
-    2 tbsp mayonaise
-    1 clove garlic
-    2 tbsp cream cheese or labneh
+- 1/2 cup panko crumbs
+- 1 tbsp fry seasoning
+- 1/2 cup parmesan
+- 2 chicken breasts
+- 2 tsp dijon mustard
+- 2 tbsp mayonaise
+- 1 clove garlic
+- 2 tbsp cream cheese or labneh
+
+## Instructions
 
 Preheat oven to 450, grease a baking sheet
 
@@ -24,6 +26,6 @@ Spread evenly on top of chicken breasts and mound with panko mix, pressing to ad
 
 Roast in oven for 17 minutes. (If roasing tomatoes, add them 10 minutes in)
 
-Serve with Creamy Lemon Tomato Spaghetti
+Serve with [Creamy Lemon Tomato Spaghetti](./Creamy%20Lemon%20Tomato%20Spaghetti.md)
 
 
