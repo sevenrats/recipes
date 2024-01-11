@@ -25,3 +25,5 @@ Bake for 20-25 minutes until salmon is cooked through.
 Open the foil evelope, baste the fish with the sauce and broil for 3-5 minutes until caramelized.
 
 Garnish with lemon and parsley if desired.
+
+Serve with [Watermelon Mint Salad](./Salad,%20Watermelon%20Mint.md)
