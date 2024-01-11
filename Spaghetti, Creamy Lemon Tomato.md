@@ -23,4 +23,4 @@ Add cream cheese, lemon zest, and pasta water, and 1 tbsp lemon juice
 
 Add cooked pasta and toss to combine.  Adjust consistency with pasta water if needed
 
-Serve with [Parmesan-Crusted Chicken](./Parmesan-Crusted%20Chicken.md)
+Serve with [Parmesan-Crusted Chicken](./Chicken,%20Parmesan-Crusted.md)

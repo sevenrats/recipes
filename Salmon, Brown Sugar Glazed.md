@@ -1,14 +1,16 @@
-Brown Sugar Glazed Salmon
+# Brown Sugar Glazed Salmon
 
-    2 lbs salmon
-    2 tbsp olive oil
-    1/4 cup brown sugar
-    1/4 soy sauce (no bullshit)
-    3 garlic cloves, crushed and minced
-    juice of one lemon
-    1 teaspood salt
-    1/2 teaspoon pepper
-    sliced lemons and parsley to garnish
+- 2 lbs salmon
+- 2 tbsp olive oil
+- 1/4 cup brown sugar
+- 1/4 soy sauce (no bullshit)
+- 3 garlic cloves, crushed and minced
+- juice of one lemon
+- 1 teaspood salt
+- 1/2 teaspoon pepper
+- sliced lemons and parsley to garnish
+
+## Instructions
 
 Preheat oven to 350. Lay foil on baking sheet and place salmon on foil (you are going to seal the foil).
 

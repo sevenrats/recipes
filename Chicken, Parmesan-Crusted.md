@@ -26,6 +26,6 @@ Spread evenly on top of chicken breasts and mound with panko mix, pressing to ad
 
 Roast in oven for 17 minutes. (If roasing tomatoes, add them 10 minutes in)
 
-Serve with [Creamy Lemon Tomato Spaghetti](./Creamy%20Lemon%20Tomato%20Spaghetti.md)
+Serve with [Creamy Lemon Tomato Spaghetti](./Spaghetti,%20Creamy%20Lemon%20Tomato.md)
 
 
