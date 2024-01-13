@@ -4,6 +4,7 @@
 - 2 cups flour
 - 1 tsp salt
 - 1 tsp baking powder
+- 3 large eggs
 - 1/4 tsp baking soda
 - 3/4 tsp cardamom
 - 1-1/2 cups plus 2 tbsp granulated sugar
