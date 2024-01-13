@@ -1,4 +1,4 @@
-# Mom's Meatloaf:
+# Mom's Meatloaf
 
 - 3 lb ground beef
 - 1 can tomato soup concentrate

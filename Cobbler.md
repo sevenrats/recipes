@@ -1,6 +1,6 @@
 # Cobbler
 
-Cobbler is a dessert consisting of a fruit (or less commonly savory) filling poured into a large baking dish and covered with a batter, biscuit, or dumpling (in the United Kingdom) before being baked. Some cobbler recipes, especially in the American South, resemble a thick-crusted, deep-dish pie with both a top and bottom crust. Cobbler is part of the cuisine of the United Kingdom and United States, and should not be confused with a crumble.
+Cobbler is a dessert consisting of a fruit (or less commonly, savory) filling poured into a large baking dish and covered with a batter, biscuit, or dumpling (in the United Kingdom) before being baked. Some cobbler recipes, especially in the American South, resemble a thick-crusted, deep-dish pie with both a top and bottom crust. Cobbler is part of the cuisine of the United Kingdom and United States, and should not be confused with a crumble.
 
 ### Filling:
 - 6 medium apples

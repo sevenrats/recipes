@@ -16,7 +16,7 @@ Perfectly crispy on the outside with a tender interior and served with a delight
 ## Instructions
 
 1. Pound the pork chops between two sheets of plastic wrap with the flat side of a meat tenderizer until 1/4 inch thick. Lightly sprinkle both sides with salt and freshly ground black pepper.
-2. Place the flour mixture, egg, and breadcrumbs in 3 separate shallow bowls. Dredge the pork chops in the flour, the egg, and the breadcrumbs, coating both sides and all edges at each stage. Be careful not to press the breadcrumbs into the meat. Gently shake off the excess crumbs.  (Note: Don't let the schnitzel sit in the coating or they will not be as crispy once fried - fry immediately.)  
+2. Place the flour mixture, egg, and breadcrumbs in 3 separate shallow bowls. Dredge the pork chops in the flour, the egg, and the breadcrumbs, coating both sides and all edges at each stage. Be careful not to press the breadcrumbs into the meat. Gently shake off the excess crumbs.  (Note: Don't let the schnitzel sit in the coating or they will not be as crispy once fried - fry immediately.)
 
     Note:  Some regions of Germany make Jägerschnitzel without the breading.  Simply pound the pork chops, salt and pepper them, fry them and serve them with the gravy.
 
