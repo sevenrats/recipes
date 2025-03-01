@@ -26,7 +26,7 @@ else:
 APPLIED_CONFIG = config
 
 uri = sys.argv[1]
-recipe = scrape_me(uri, wild_mode=True)
+recipe = scrape_me(uri)
 
 output = f"# {recipe.title()}\n\n"
 if len(recipe.ingredient_groups()) > 1:
